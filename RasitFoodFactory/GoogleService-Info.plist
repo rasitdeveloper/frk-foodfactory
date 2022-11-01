@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>922410386578-r213bnou0gsr98p9ole5ei3ktf2c6vnb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.922410386578-r213bnou0gsr98p9ole5ei3ktf2c6vnb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6iX5JsPSC2xmVtMoCniGpGQEHde1Xkt0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>922410386578</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>deneme.RasitFoodFactory</string>
+	<key>PROJECT_ID</key>
+	<string>foodfactory-54197</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodfactory-54197.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:922410386578:ios:6aa96d0977e1ea908f924b</string>
+</dict>
+</plist>
